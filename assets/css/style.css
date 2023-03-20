@@ -1206,3 +1206,58 @@ section {
 #footer .credits {
   font-size: 13px;
 }
+
+.apurv-name {
+  font-family: "Kaushan Script", cursive !important;
+  line-height: 1.3 !important;
+  font-weight: 300 !important;
+}
+
+.social-links-new {
+  margin: 0 0 40px 0;
+}
+
+#footer .social-links-new a {
+  font-size: 24px;
+  display: inline-block;
+  color: #45505b;
+  line-height: 1;
+  margin-right: 20px;
+  transition: 0.3s;
+}
+
+.skill-type {
+  color: #728394;
+}
+
+.twitter:hover {
+  color: #1DA1F2 !important
+}
+
+.facebook:hover {
+  color: #4267B2 !important
+}
+
+.instagram:hover {
+  color: #E1306C !important
+}
+
+.skype:hover {
+  color: #009EDC !important
+}
+
+.linkedin:hover {
+  color: #0072b1 !important
+}
+
+.whatsapp:hover {
+  color: #25D366 !important
+}
+
+.github:hover {
+  color: #333 !important
+}
+
+.resume ul strong {
+  margin-right: 10px;
+}
